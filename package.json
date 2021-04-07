@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "homepage": "https://github.com/naoufal/react-native-payments",
-  "repository": "https://github.com/naoufal/react-native-payments",
+  "repository": "https://github.com/rumblefishdev/react-native-payments",
   "keywords": [
     "react",
     "react-native",
